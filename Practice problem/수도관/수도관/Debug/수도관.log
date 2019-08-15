@@ -1,0 +1,4 @@
+﻿  소스.cpp
+F:\NYPC2019 예선\NYPC_2019_pre\Practice problem\수도관\수도관\소스.cpp(10,13): warning C4101:  'tempb' :참조되지 않은 지역 변수입니다.
+F:\NYPC2019 예선\NYPC_2019_pre\Practice problem\수도관\수도관\소스.cpp(10,6): warning C4101:  'tempa' :참조되지 않은 지역 변수입니다.
+  수도관.vcxproj -> F:\NYPC2019 예선\NYPC_2019_pre\Practice problem\수도관\Debug\수도관.exe
